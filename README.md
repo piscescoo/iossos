@@ -15,9 +15,7 @@
 <li><p>连接手机在PP助手中搜索 <code>Shadowrocket</code> 并安装</p></li>
 <li><p>如果搜索不到Shadowrocket 那么表示下架了，直接下载 <a href="https://dn-shimo-attachment.qbox.me/nF8GwQhW13M8HBmb/Shadowrocket-2.1.10-PP.ipa">Shadowrocket.ipa</a> 导入到<strong>下载管理</strong>中安装</p></li>
 </ul>
-<li><p>iPhone/iPad教程（<a href="http://yunchangcheng.net/ios">点这里</a>）</p><p>Shadowrocket 配置方法视频（<a href="https://dn-shimo-attachment.qbox.me/KmZQ5tk32XEHowdp/Shadowrocket-phone.mp4">点这里</a>）</p></li>
 
-<video class="video" controls="controls" playsinline="" webkit-playsinline="" src="https://dn-shimo-attachment.qbox.me/KmZQ5tk32XEHowdp/Shadowrocket-phone.mp4" width="100%"></video>
 
 
 2017年9月8日09:56:20
